@@ -1,21 +1,3 @@
 # vue-project
-
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+meituanproject.github.com
+仿美团项目这是一个仿美团外卖app的项目，因为数据不足，只针对做了商家的一部分。项目主要包括点餐，自动计算点餐数量及金额，可以单击进入某个单商品页面，进入最新活动页面等等用到的技术主要包括基于Vue框架的Vuex，更好滚动，Vue-router，以及es6的语法
